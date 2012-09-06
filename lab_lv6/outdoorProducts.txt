@@ -1,0 +1,9 @@
+id_product,desc_product,price,category
+1,"Swedish Firesteel - Army Model",19,"tents"
+2,"Mountain House #10 Can Freeze-Dried Food",53,"kitchen"
+3,"Lodge Logic L9OG3 Pre-Seasoned 10-1/2-Inch Round Griddle",14,"kitchen"
+4,"Swedish Firesteel - Army Model",190,"kitchen"
+5,"Mountain House #10 Can Freeze-Dried Food",53,"tents"
+6,"Lodge Logic L9OG3 Pre-Seasoned 10-1/2-Inch Round Griddle",140,"tents"
+7,"Mountain House #10 Can Freeze-Dried Food",530,"tents"
+8,"Lodge Logic L9OG3 Pre-Seasoned 10-1/2-Inch Round Griddle",14,"tents"

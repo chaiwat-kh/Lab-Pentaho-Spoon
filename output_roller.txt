@@ -1,0 +1,16 @@
+text;attraction;line_nr
+SeaWorld Orlando;JOURNEY TO ATLANTIS; 0000000001
+Journey to Atlantis is a unique thrill ride since it is ...;JOURNEY TO ATLANTIS; 0000000002
+Drop: 60 feet;JOURNEY TO ATLANTIS; 0000000003
+Trains: 8 passenger boats;JOURNEY TO ATLANTIS; 0000000004
+Train Mfg: Mack;JOURNEY TO ATLANTIS; 0000000005
+SeaWorld Orlando;KRAKEN; 0000000001
+Named after a legendary sea monster, Kraken is a ...;KRAKEN; 0000000002
+Kraken begins with a plunge from a height of 15-stories ...;KRAKEN; 0000000003
+Height: 151 feet;KRAKEN; 0000000004
+Drop: 144 feet;KRAKEN; 0000000005
+Top Speed: 65 mph;KRAKEN; 0000000006
+Length: 4,177 feet;KRAKEN; 0000000007
+Inversions: 7;KRAKEN; 0000000008
+Trains: 3 - 32 passenger;KRAKEN; 0000000009
+Ride Time: 2 minutes, 2 seconds;KRAKEN; 0000000010

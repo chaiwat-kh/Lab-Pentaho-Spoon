@@ -1,0 +1,6 @@
+Product;Category;Price
+Kettle;kitchen;$119.00
+Dish;kitchen;$45.00
+light;lights;$50.00
+Pillow;sleeping bags;$199.00
+Hammer;tools;$150.00

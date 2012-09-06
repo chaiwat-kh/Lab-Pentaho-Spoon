@@ -1,0 +1,17 @@
+<museums>
+  <museum id_museum= '8'>
+    <name>Buenos Aires Museum</name>
+    <city>Buenos Aires</city>
+    <country>Argentina</country>
+  </museum>
+  <museum id_museum= '2'>
+    <name>La Paz Museum</name>
+    <city>La Paz</city>
+    <country>Bolivia</country>
+  </museum>
+  <museum id_museum= '3'>
+    <name>Caracas Museum</name>
+    <city>Caracas</city>
+    <country>Venezuela</country>
+  </museum>  
+</museums>

@@ -1,0 +1,6 @@
+name;birthdate;calculated_age
+Santiago;15/02/2004; 8
+Lourdes;05/08/1994; 18
+Anna;08/10/1978; 33
+Zoe;15/01/1975; 37
+Paul;31/12/1969; 42

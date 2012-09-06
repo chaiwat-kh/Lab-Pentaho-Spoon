@@ -1,0 +1,26 @@
+﻿<country>
+  <Records>
+    <Name>Argentina</Name>
+    <Capital>Buenos Aires</Capital>
+    <Continent>South America</Continent>
+    <Area>2777815</Area>
+    <Population>32300003</Population>
+    <Language>English</Language>
+  </Records>
+  <Records>
+    <Name>Bolivia</Name>
+    <Capital>La Paz</Capital>
+    <Continent>South America</Continent>
+    <Area>1098575</Area>
+    <Population>7300000</Population>
+    <Language>Portuguese</Language>
+  </Records>
+  <Records>
+    <Name>Venezuela</Name>
+    <Capital>Caracas</Capital>
+    <Continent>South America</Continent>
+    <Area>912047</Area>
+    <Population>19700000</Population>
+    <Language>Portuguese</Language>
+  </Records>
+</country>

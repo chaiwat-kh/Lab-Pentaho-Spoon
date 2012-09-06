@@ -1,0 +1,7 @@
+EMPLOYEENUMBER|LASTNAME|FIRSTNAME|EXTENSION|EMAIL|OFFICECODE|JOBTITLE|REP_TO
+1002|Murphy|Diane|x5800|dmurphy@classicmodelcars.com |1|President| 
+1056|Patterson|Mary|x4611|mpatterso@classicmodelcars.com |1|VP Sales|dmurphy@classicmodelcars.com
+1076|Firrelli|Jeff|x9273|jfirrelli@classicmodelcars.com |1|VP Marketing|dmurphy@classicmodelcars.com
+1088|Patterson|William|x4871|wpatterson@classicmodelcars.com |6|Sales Manager (JAPAN, APAC)|mpatterso@classicmodelcars.com
+1102|Bondur|Gerar|x4898|gbondur@classicmodelcars.com |6|Sale Manager (EMEA)|jfirrelli@classicmodelcars.com
+1165|Jennings|Davis|x1165|djennings@classicmodelcars.com |8|Sales Rep|gbondur@classicmodelcars.com

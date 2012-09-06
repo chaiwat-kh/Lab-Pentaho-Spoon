@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rows>
+ <Row><Roller_Coaster>Dodonpa</Roller_Coaster> <Speed>106.80 km&#47;h</Speed> <park>Fuji-Q Highland</park> <location>FujiYoshida-shi</location> <country>Japan</country> <Year> 2001</Year> <flag>identical</flag> </Row>
+ <Row><Roller_Coaster>Furious Baco</Roller_Coaster> <Speed>84.00 km&#47;h</Speed> <park>PortAventura</park> <location>Spain</location> <country/> <Year> 2007</Year> <flag>new</flag> </Row>
+ <Row><Roller_Coaster>Intimidator 305</Roller_Coaster> <Speed>90.00 km&#47;h</Speed> <park>Kings Dominion</park> <location>Doswell, Virginia</location> <country/> <Year> 2010</Year> <flag>new</flag> </Row>
+ <Row><Roller_Coaster>Kingda Ka</Roller_Coaster> <Speed>128.00 km&#47;h</Speed> <park>Six Flags Great Adventure</park> <location>Jackson, New Jersey</location> <country/> <Year> 2005</Year> <flag>deleted</flag> </Row>
+ <Row><Roller_Coaster>Millennium Force</Roller_Coaster> <Speed>93.00 km&#47;h</Speed> <park>Cedar Point</park> <location>Sandusky, Ohio</location> <country/> <Year> 2002</Year> <flag>identical</flag> </Row>
+ <Row><Roller_Coaster>Steel Dragon 2000</Roller_Coaster> <Speed>100.00 km&#47;h</Speed> <park>Nagashima Spa Land</park> <location>Mie</location> <country>Japan</country> <Year> 2004</Year> <flag>changed</flag> </Row>
+ <Row><Roller_Coaster>Titan</Roller_Coaster> <Speed>85.00 km&#47;h</Speed> <park>Six Flags Over Texas</park> <location>Arlington, Texas</location> <country/> <Year> 2001</Year> <flag>new</flag> </Row>
+ <Row><Roller_Coaster>Top Thrill Dragster</Roller_Coaster> <Speed>120.00 km&#47;h</Speed> <park>Cedar Point</park> <location>Sandusky, Ohio</location> <country/> <Year> 2004</Year> <flag>identical</flag> </Row>
+</Rows>

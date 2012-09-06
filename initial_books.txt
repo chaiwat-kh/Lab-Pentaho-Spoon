@@ -1,0 +1,4 @@
+Id_author;Code;Title;Price;Genre
+A00001;123-400;The Girl with the Dragon Tattoo;37;Teens
+A00012;123-401;The Girl who Played with Fire;35.9;Teens
+A00013;123-402;The Girl who Kicked the Hornett's Nest;39;Teens

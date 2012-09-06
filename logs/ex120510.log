@@ -1,0 +1,7 @@
+2012-05-10 10:31:20,945 | [8] | DEBUG | DcmWeb.Controllers.DcmController | {"Method":"SearchGenerationSummary","Type":"IceCube"};
+2012-05-10 10:31:20,992 | [10] | DEBUG | DcmWeb.Controllers.DcmController | {"Method":"SearchGenerationSummary","Type":"IceCube"};
+2012-05-10 10:34:13,825 | [4] | DEBUG | DcmWeb.Controllers.DcmController | {"Method":"SearchAll","Type":"ALL","Code":"","Name":"","Status":"ALL","EffectiveDateSt":"","CreateDateSt":"","ElapsedMilliseconds":9454};
+2012-05-10 10:36:55,391 | [8] | DEBUG | DcmWeb.Controllers.DcmController | {"Method":"SearchGenerationSummary","Type":"IceCube"};
+2012-05-10 10:36:55,407 | [4] | DEBUG | DcmWeb.Controllers.DcmController | {"Method":"SearchGenerationSummary","Type":"IceCube"};
+2012-05-10 10:38:21,242 | [14] | DEBUG | DcmWeb.Controllers.DcmController | {"Method":"SearchAll","Type":"ALL","Code":"","Name":"","Status":"ALL","EffectiveDateSt":"10/05/2012","CreateDateSt":"10/05/2012","ElapsedMilliseconds":2992};
+2012-05-10 10:38:28,339 | [13] | DEBUG | DcmWeb.Controllers.DcmController | {"Method":"SearchAll","Type":"ALL","Code":"","Name":"","Status":"ALL","EffectiveDateSt":"","CreateDateSt":"","ElapsedMilliseconds":1217};

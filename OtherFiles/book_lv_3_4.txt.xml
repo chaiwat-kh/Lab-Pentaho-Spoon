@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+ <Book><code>123-400</code> <title>The Girl with the Dragon Tattoo</title> <genre>Teens</genre> <price>37.50</price> <author>Wara, Ito</author> </Book>
+ <Book><code>123-401</code> <title>The Girl who Played with Fire</title> <genre>Children</genre> <price>35.90</price> <author>Tama, Mana</author> </Book>
+ <Book><code>123-402</code> <title>The Girl who Kicked the Hornett&apos;s Nest</title> <genre>Teens</genre> <price>40.00</price> <author>Terry, John</author> </Book>
+ <Book><code>123-501</code> <title>Catching Fire</title> <genre>Fiction</genre> <price>37.99</price> <author>Suzanne, Collins</author> </Book>
+ <Book><code>123-502</code> <title>The Hunger Games</title> <genre>Fiction</genre> <price>45.00</price> <author>Suzanne, Collins</author> </Book>
+</Books>

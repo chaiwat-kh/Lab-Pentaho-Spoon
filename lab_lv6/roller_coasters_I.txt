@@ -1,0 +1,8 @@
+roller_coaster|speed|park|location|country|Year
+Top Thrill Dragster|120 mph|Cedar Point|Sandusky, Ohio||2004
+Dodonpa|106.8 mph|Fuji-Q Highland|FujiYoshida-shi|Japan|2001
+Steel Dragon 2000|100 mph|Nagashima Spa Land|Mie|Japan|2004
+Millennium Force|93 mph|Cedar Point|Sandusky, Ohio||2002
+Intimidator 305|90 mph|Kings Dominion|Doswell, Virginia||2010
+Titan|85 mph|Six Flags Over Texas|Arlington, Texas||2001
+Furious Baco|84 mph|PortAventura|Spain||2007

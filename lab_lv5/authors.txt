@@ -1,0 +1,6 @@
+"lastname","firstname","nationality","id_author"
+"Larsson","Stieg","Swedish","A00001"
+"King","Stephen","American","A00002"
+"Hiaasen","Carl ","American","A00003"
+"Handler","Chelsea ","American","A00004"
+"Ingraham","Laura ","American","A00005"

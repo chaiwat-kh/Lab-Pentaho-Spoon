@@ -1,0 +1,53 @@
+﻿<w_cond>
+  <data>
+    <request>
+      <type>City</type>
+      <query>Buenos Aires, Argentina</query>
+      <preferredScale>C</preferredScale>
+    </request>
+    <current_condition>
+      <observation_time>08:12 PM</observation_time>
+      <temp scale="C">19</temp>
+      <temp scale="F">66</temp>
+      <weatherDesc>Sunny</weatherDesc>
+      <windspeed unit="Miles">8</windspeed>
+      <windspeed unit="Kmph">13</windspeed>
+      <dirDegree>70</dirDegree>
+      <dir16Point>ENE</dir16Point>
+    </current_condition>
+    <weather>
+      <date>2010-10-24</date>
+      <tempMaxC>23</tempMaxC>
+    </weather>
+    <weather>
+      <date>2010-10-25</date>
+      <tempMaxC>22</tempMaxC>
+    </weather>
+  </data>
+
+  <data>
+    <request>
+      <type>City</type>
+      <query>Montevideo, Uruguay</query>
+      <preferredScale>C</preferredScale>
+    </request>
+    <current_condition>
+      <observation_time>08:12 PM</observation_time>
+      <temp scale="C">24</temp>
+      <temp scale="F">76</temp>
+      <weatherDesc>Sunny</weatherDesc>
+      <windspeed unit="Miles">11</windspeed>
+      <windspeed unit="Kmph">15</windspeed>
+      <dirDegree>70</dirDegree>
+      <dir16Point>ENE</dir16Point>
+    </current_condition>
+    <weather>
+      <date>2010-10-24</date>
+      <tempMaxC>18</tempMaxC>
+    </weather>
+    <weather>
+      <date>2010-10-25</date>
+      <tempMaxC>29</tempMaxC>
+    </weather>
+  </data>
+</w_cond>

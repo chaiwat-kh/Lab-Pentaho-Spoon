@@ -1,0 +1,3 @@
+Code;Genre;Title;Author;Comment;Price
+123-400;Teens;The Girl with the Dragon Tattoo;Wara, Ito;In Stock;37.5
+123-402;Teens;The Girl who Kicked the Hornett's Nest;Terry, John;In Stock;40

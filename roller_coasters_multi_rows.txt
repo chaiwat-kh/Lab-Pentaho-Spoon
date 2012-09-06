@@ -1,0 +1,14 @@
+Roller Coaster	Speed	Location	Year
+Kingda Ka	128 mph	Six Flags Great Adventure
+		Jackson, New Jersey	2005
+Top Thrill Dragster 		120 mph 		Cedar Point
+											Sandusky, Ohio 					2003
+Dodonpa 					106.8 mph 		Fuji-Q Highland
+											FujiYoshida-shi 				2001
+											Japan
+Steel Dragon 2000 			95 mph 			Nagashima Spa Land
+											Mie 							2000
+											Japan
+Millennium Force 			93 mph 			Cedar Point
+											Sandusky, Ohio 					2000
+Intimidator 305 			90 mph 			Kings Dominion					2000
